@@ -12,3 +12,16 @@ def mostFrequentLetter(s):
 print(mostFrequentLetter("We will attack at dawn"))
 assert(mostFrequentLetter("hii")=="i")
 assert(mostFrequentLetter("wow")=="w")
+
+
+
+### using dictionary ### 
+
+
+
+
+
+
+
+
+
